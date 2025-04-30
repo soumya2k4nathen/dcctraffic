@@ -5,3 +5,4 @@ seaborn
 scikit-learn
 statsmodels
 plotly
+streamlit_option_menu
